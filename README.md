@@ -2,7 +2,7 @@
 
 This is a small project I worked on during the rainy christmas day we had this year.
 I used Object Oriented Programming to create a Particles file where I can generate snow objects and then render on to the canvas.
-Snow objects have a position, size, speed and acceleration.
+Snow objects have a position, size, speed and acceleration. Snow objects are stored in an Array (200 particles, can be varied by changing 'numberOfParticles').
 Objects speed is affected by size where bigger snow particles move faster giving a sort of parallax effect making small objects seem far behind.
 
 To run the application download Run Folder and open SnowFall.exe.
